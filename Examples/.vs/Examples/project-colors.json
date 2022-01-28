@@ -15,7 +15,12 @@
       "ProjectGuid": "4780c9fe-4d6c-44e9-8e28-7653b6703f02",
       "DisplayName": "L03_02_ESCAPE_CHARACTERS",
       "ColorIndex": 2
+    },
+    "715359a2-4866-493a-82b8-06853a2ae207": {
+      "ProjectGuid": "715359a2-4866-493a-82b8-06853a2ae207",
+      "DisplayName": "L04_01_RATES_EXAMPLE",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

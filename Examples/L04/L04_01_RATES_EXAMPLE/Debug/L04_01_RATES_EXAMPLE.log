@@ -1,0 +1,7 @@
+﻿  main.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+nafxcw.lib(afxmem.obj) : warning LNK4006: "void __cdecl operator delete(void *)" (??3@YAXPAX@Z) 已在 MSVCRTD.lib(delete_scalar.obj) 中定义；已忽略第二个定义
+LINK : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+F:\BC101\Examples\Debug\L04_01_RATES_EXAMPLE.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+BOCRates.lib(BOCRates.obj) : warning LNK4099: 未找到 PDB“BOCRates.pdb”(使用“BOCRates.lib(BOCRates.obj)”或在“F:\BC101\Examples\Debug\BOCRates.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  L04_01_RATES_EXAMPLE.vcxproj -> F:\BC101\Examples\Debug\L04_01_RATES_EXAMPLE.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "double __cdecl ConvertCurrency(int,char const *,char const *,double)" (?ConvertCurrency@@YANHPEBD0N@Z)，函数 main 中引用了该符号
+F:\BC101\Libraries\BOCRates\BOCRates.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\BC101\Examples\x64\Debug\L04_01_RATES_EXAMPLE.exe : fatal error LNK1120: 1 个无法解析的外部命令
